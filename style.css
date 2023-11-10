@@ -1,0 +1,135 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+display: flex;
+margin-left: 1340px;
+padding: 20px;
+
+}
+.item{
+    
+    font-weight: bold;
+    width: 90px;
+    
+   
+    margin: 10px;
+
+}
+.item i{
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.google{
+    text-align: center;
+    font-size: 90px;
+   
+    margin-top: 120px;
+
+}
+.search{
+  display: -ms-flexbox;
+  display: flex;
+  width: 30%;
+  margin-bottom: 15px;
+  margin-left: 30%;
+;
+
+}
+
+.search, input{
+    width: 600px;
+    height: 43px;
+    border-radius: 35px; 
+    padding: 10px;
+    outline: none;  
+ 
+}
+
+.icons{
+    margin-left: 500px;
+    width: 700px;  
+    display: flex;
+}
+.icons2{
+  margin-left: 580px;
+  width: 700px;
+  display: flex;
+}
+.txt{
+  color: rgb(10, 9, 9);
+  font-size: 15px;
+}
+ .name1{
+  font-size: 30px;
+  color: rgb(233, 45, 45);
+
+width: 100px;
+height: 100px;
+text-align: center;
+margin: 20px;
+}
+.name2{
+  font-size: 30px;
+  color: rgb(60, 0, 255);
+  
+  width: 100px;
+height: 100px;
+text-align: center;
+margin: 20px;
+
+}
+.name3{
+  font-size: 30px;
+  color: rgb(123, 120, 120);
+
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+}
+.name4{
+  font-size: 30px;
+  color: rgb(206, 66, 155);
+  
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+}
+
+
+.name5{
+  font-size: 30px;
+  color: rgb(66, 129, 206);
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+
+}
+.name6{
+  font-size: 30px;
+  color: rgb(71, 206, 66);
+
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+}
+
+.name7{
+  font-size: 30px;
+  color: rgb(13, 13, 13);
+  
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 20px;
+}
+
