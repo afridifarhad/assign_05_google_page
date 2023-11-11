@@ -28,9 +28,7 @@ padding: 20px;
 .google{
     text-align: center;
     font-size: 90px;
-   
     margin-top: 120px;
-
 }
 .search{
   display: -ms-flexbox;
@@ -43,7 +41,7 @@ padding: 20px;
 .srch{
   position: absolute;
   font-size: 15px;
-  top: 42%;
+  top: 42.5%;
   width: 35px;
 }
 .search, input{
@@ -57,14 +55,14 @@ padding: 20px;
 .voice{
   position: absolute;
   font-size: 15px;
-  top: 42%;
+  top: 42.5%;
   width: 985px;
   cursor: pointer;
 }
 .camera{
   position: absolute;
   font-size: 15px;
-  top: 42%;
+  top: 42.5%;
   width: 1050px;
   cursor: pointer;
 }
